@@ -3,8 +3,6 @@
 Your task will be to implement a virtual machine with random memory
 access.
 
-No panic!
-
 The virtual machine will be invoked as follows:
 
     ./main program.orc
